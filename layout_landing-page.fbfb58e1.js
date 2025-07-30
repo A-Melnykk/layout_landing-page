@@ -1,0 +1,2 @@
+"use strict";document.addEventListener("DOMContentLoaded",function(){var e=document.querySelector(".icon--menu"),n=document.querySelector(".menu__icon--close"),t=document.querySelector(".menu"),c=document.body;e&&t&&n&&(e.addEventListener("click",function(){t.classList.add("menu--active"),c.classList.add("page--menu-open")}),n.addEventListener("click",function(){t.classList.remove("menu--active"),c.classList.remove("page--menu-open")}))});
+//# sourceMappingURL=layout_landing-page.fbfb58e1.js.map
